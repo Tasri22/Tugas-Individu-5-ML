@@ -20,7 +20,6 @@ Class adalah blueprint untuk membuat object.
 
 Contoh class sederhana:
 
-```python
 class MyClass:
     x = 5
 
@@ -80,6 +79,8 @@ def myfunc():
 
 myfunc()
 
+
+
 4️⃣ Python Modules
 
 - Module adalah file .py yang berisi fungsi, class, atau variabel yang bisa digunakan kembali.
@@ -97,6 +98,8 @@ import os
 os.listdir()
 os.getcwd()
 
+---
+
 📂 Struktur Repository
 
 Tugas-Individu-4-ML/
@@ -104,17 +107,21 @@ Tugas-Individu-4-ML/
 ├── Python_Individu5.ipynb
 └── README.md
 
+---
+
 🎥 Video Penjelasan
 
 Video presentasi materi dapat ditonton di YouTube:
 
 Tambahkan link video YouTube di sini
 
+---
 
 👩‍💻 Author
 
 Tasri Zulfitriyati (231001074)
 
+---
 
 📌 Tujuan Project
 
@@ -124,10 +131,23 @@ Tugas pembelajaran Python
 Memahami konsep OOP di Python
 Dokumentasi pembelajaran programming
 
+---
+
 📜 License
 
 Project ini dibuat untuk tujuan pembelajaran dan akademik.
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 
 
