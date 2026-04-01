@@ -1,3 +1,4 @@
+
 # 🐍 Python Basic Part 4 – OOP, Inheritance, Scope, dan Modules
 
 ![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python)
@@ -126,3 +127,7 @@ Dokumentasi pembelajaran programming
 📜 License
 
 Project ini dibuat untuk tujuan pembelajaran dan akademik.
+---
+
+
+
