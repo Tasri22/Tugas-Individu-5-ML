@@ -125,11 +125,6 @@ Dokumentasi pembelajaran programming
 
 ---
 
-📜 License
-
-Project ini dibuat untuk tujuan pembelajaran dan akademik.
----
-
 
 
 
