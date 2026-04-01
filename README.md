@@ -99,21 +99,13 @@ os.listdir()
 os.getcwd()
 
 ---
-
-📂 Struktur Repository
-
-Tugas-Individu-4-ML/
-│
-├── Python_Individu5.ipynb
-└── README.md
-
 ---
 
 🎥 Video Penjelasan
 
 Video presentasi materi dapat ditonton di YouTube:
 
-Tambahkan link video YouTube di sini
+# https://youtu.be/EokWn_O7LVg?si=9V4vkq0NN_SppVNU
 
 ---
 
